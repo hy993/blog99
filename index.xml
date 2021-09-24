@@ -5,6 +5,25 @@
     <link>http://hy993.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://hy993.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Sep 2021 19:01:07 +0800</lastBuildDate><atom:link href="http://hy993.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>http://hy993.github.io/post/first/</link>
+      <pubDate>Fri, 24 Sep 2021 19:01:07 +0800</pubDate>
+      
+      <guid>http://hy993.github.io/post/first/</guid>
+      <description>第一级目录 第二级目录页 第三级目录页  aaa bbb ccc  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://hy993.github.io/about/</link>
+      <pubDate>Fri, 24 Sep 2021 18:59:56 +0800</pubDate>
+      
+      <guid>http://hy993.github.io/about/</guid>
+      <description>First blog</description>
+    </item>
+    
   </channel>
 </rss>
