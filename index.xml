@@ -5,42 +5,27 @@
     <link>http://hy993.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 24 Sep 2021 19:04:13 +0800</lastBuildDate><atom:link href="http://hy993.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://hy993.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Third</title>
-      <link>http://hy993.github.io/post/third/</link>
-      <pubDate>Fri, 24 Sep 2021 19:04:13 +0800</pubDate>
+      <title></title>
+      <link>http://hy993.github.io/post/win10%E5%AE%89%E8%A3%85python-pcl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://hy993.github.io/post/third/</guid>
-      <description>1 111</description>
-    </item>
-    
-    <item>
-      <title>Second</title>
-      <link>http://hy993.github.io/post/second/</link>
-      <pubDate>Fri, 24 Sep 2021 19:04:05 +0800</pubDate>
-      
-      <guid>http://hy993.github.io/post/second/</guid>
-      <description>1 111</description>
-    </item>
-    
-    <item>
-      <title>First</title>
-      <link>http://hy993.github.io/post/first/</link>
-      <pubDate>Fri, 24 Sep 2021 19:01:07 +0800</pubDate>
-      
-      <guid>http://hy993.github.io/post/first/</guid>
-      <description>第一级目录 第二级目录页 第三级目录页  aaa bbb ccc  </description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://hy993.github.io/about/</link>
-      <pubDate>Fri, 24 Sep 2021 18:59:56 +0800</pubDate>
-      
-      <guid>http://hy993.github.io/about/</guid>
-      <description>First blog</description>
+      <guid>http://hy993.github.io/post/win10%E5%AE%89%E8%A3%85python-pcl/</guid>
+      <description>win10安装python-pcl   系统环境介绍
+python 3.8.3
+visual studio 2017 community
+  安装 pcl 库
+2.1 PCL-1.9.1-AllInOne-msvc2017-win64.exe
+2.2 pcl-1.9.1-pdb-msvc2017-win64.zip
+  确保环境变量
+   下载 GTK3.6.4
+Windows Gtk+ Download
+3.6.4版本下载地址 http://www.tarnyko.net/repo/gtk3_build_system/gtk+-bundle_3.6.4-20130513_win64.zip
+  下载 python-pcl
+git clone https://github.com/strawlab/python-pcl #或者 git clone git://github.com/strawlab/python-pcl   把 GTK3.6.4 解压缩后的 bin 文件夹里的文件拷到 pkg-config 文件中
+  在 python-pcl 文件夹下打开终端
+  执行编译  python setup.py build_ext -i 安装  python setup.py install 测试  import numpy as np import pcl p = pcl.</description>
     </item>
     
   </channel>
